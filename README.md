@@ -1,1 +1,1 @@
-# Nomad-Design-System
+# Nomad-Design-Language
